@@ -10,6 +10,7 @@ public class TestPrint
 	public void m1()
 	{
 		Reporter.log("How are you",true);
+		Reporter.log("I am all fine", true);
 	}
 	
 }
